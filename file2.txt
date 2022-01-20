@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is a line of code in feature1
 
+=======
+This is a line of code created in feature2
+That is the way I like it 
+Yay
+>>>>>>> feature2
