@@ -1,1 +1,3 @@
-This is a line of code
+This is a line of code created in feature2
+That is the way I like it 
+Yay
